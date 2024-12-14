@@ -1,2 +1,2 @@
 # AI-Launchpad
-AI concepts
+AI Assignments includes supervised and unsupervised learning, transfomers, LLM, prompt engineering, AI app.
